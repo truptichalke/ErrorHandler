@@ -1,0 +1,155 @@
+[
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.AutoErrorHandlerController",
+    "Method": "PostAsync",
+    "RelativePath": "api/AutoErrorHandler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "errorhandler",
+        "Type": "AutoErrorhandler.Model.AutoErrorHandlerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.AutoErrorHandlerController",
+    "Method": "CallOllamaAPI",
+    "RelativePath": "api/AutoErrorHandler",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prompt",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetErrorDetails",
+    "RelativePath": "api/Dashboard/error-details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetErrorsByFile",
+    "RelativePath": "api/Dashboard/errors-by-file",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetErrorsByLanguage",
+    "RelativePath": "api/Dashboard/errors-by-language",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetErrorsByProject",
+    "RelativePath": "api/Dashboard/errors-by-project",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetErrorsOverTime",
+    "RelativePath": "api/Dashboard/errors-over-time",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetProjectLanguageMatrix",
+    "RelativePath": "api/Dashboard/project-language-matrix",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetRecentErrors",
+    "RelativePath": "api/Dashboard/recent-errors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetTopExceptions",
+    "RelativePath": "api/Dashboard/top-exceptions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
+    "Method": "GetTotalErrors",
+    "RelativePath": "api/Dashboard/total-errors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoErrorhandler.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AutoErrorhandler.WeatherForecast, AutoErrorhandler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
