@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|solutionrelative:autoerrorhandler\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|e:\\git_projects\\errorhandler\\autoerrorhandler\\autoerrorhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|solutionrelative:autoerrorhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|e:\\git_projects\\errorhandler\\autoerrorhandler\\autoerrorhandler\\controllers\\autoerrorhandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|solutionrelative:autoerrorhandler\\controllers\\autoerrorhandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|e:\\git_projects\\errorhandler\\autoerrorhandler\\autoerrorhandler\\model\\errordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|solutionrelative:autoerrorhandler\\model\\errordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|e:\\git_projects\\errorhandler\\autoerrorhandler\\autoerrorhandler\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|solutionrelative:autoerrorhandler\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|e:\\git_projects\\errorhandler\\autoerrorhandler\\autoerrorhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6338595D-2D22-4D78-8EF5-B470C2526613}|AutoErrorhandler\\AutoErrorhandler.csproj|solutionrelative:autoerrorhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AutoErrorhandler\\Data\\ApplicationDbContext.cs",
@@ -42,12 +46,11 @@
               "RelativeToolTip": "AutoErrorhandler\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:55:51.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T15:55:51.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ErrorDetail.cs",
               "DocumentMoniker": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Model\\ErrorDetail.cs",
               "RelativeDocumentMoniker": "AutoErrorhandler\\Model\\ErrorDetail.cs",
@@ -55,7 +58,19 @@
               "RelativeToolTip": "AutoErrorhandler\\Model\\ErrorDetail.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:36:40.885Z",
+              "WhenOpened": "2026-03-29T15:36:40.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoErrorHandlerController.cs",
+              "DocumentMoniker": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Controllers\\AutoErrorHandlerController.cs",
+              "RelativeDocumentMoniker": "AutoErrorhandler\\Controllers\\AutoErrorHandlerController.cs",
+              "ToolTip": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Controllers\\AutoErrorHandlerController.cs",
+              "RelativeToolTip": "AutoErrorhandler\\Controllers\\AutoErrorHandlerController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAmwJEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:28:35.865Z",
               "EditorCaption": ""
             },
             {
@@ -66,14 +81,14 @@
               "RelativeDocumentMoniker": "AutoErrorhandler\\Controllers\\DashboardController.cs",
               "ToolTip": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "AutoErrorhandler\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwEsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswHUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T15:08:56.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Request.cs",
               "DocumentMoniker": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Model\\Request.cs",
               "RelativeDocumentMoniker": "AutoErrorhandler\\Model\\Request.cs",
@@ -81,18 +96,17 @@
               "RelativeToolTip": "AutoErrorhandler\\Model\\Request.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T15:07:08.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T15:07:08.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Program.cs",
               "RelativeDocumentMoniker": "AutoErrorhandler\\Program.cs",
               "ToolTip": "E:\\GIT_Projects\\ErrorHandler\\AutoErrorhandler\\AutoErrorhandler\\Program.cs",
               "RelativeToolTip": "AutoErrorhandler\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T15:09:30.64Z",
               "EditorCaption": ""

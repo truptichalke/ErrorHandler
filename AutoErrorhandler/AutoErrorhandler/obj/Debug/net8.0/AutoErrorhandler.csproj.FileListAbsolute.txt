@@ -132,7 +132,6 @@ E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\
 E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\staticwebassets.build.json.cache
 E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\staticwebassets.development.json
 E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\AutoErro.2FB591B5.Up2Date
 E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\AutoErrorhandler.dll
 E:\GIT_Projects\ErrorHandler\AutoErrorhandler\AutoErrorhandler\obj\Debug\net8.0\refint\AutoErrorhandler.dll

@@ -83,16 +83,6 @@
   },
   {
     "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
-    "Method": "GetErrorsOverTime",
-    "RelativePath": "api/Dashboard/errors-over-time",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "AutoErrorhandler.Controllers.DashboardController",
     "Method": "GetProjectLanguageMatrix",
     "RelativePath": "api/Dashboard/project-language-matrix",
     "HttpMethod": "GET",
